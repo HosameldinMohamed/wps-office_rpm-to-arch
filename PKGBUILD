@@ -1,5 +1,5 @@
 # Maintainer: Hosameldin Awadalla <hosam.awadalla@outlook.com>
-pkgname='wps-office'
+pkgname='wps-office-rpm'
 pkgver=11.1.0.10161
 pkgrel=1
 pkgdesc="Office Suite"
